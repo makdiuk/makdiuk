@@ -1,11 +1,3 @@
-<p align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:12100E&height=200&section=header&text=Maksym&fontSize=40&fontColor=ffffff" />
-
-</p>
-
-<h1 align="center">Hi 👋, I'm Maksym</h1>
-
 <h3 align="center">
 DevOps / DevSecOps Engineer • Cloud Infrastructure • Automation
 </h3>
