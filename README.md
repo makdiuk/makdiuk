@@ -6,7 +6,7 @@ DevOps / DevSecOps Engineer • Cloud Infrastructure • Automation
 
 <p align="center">
   <a href="https://github.com/makdiuk">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=makdiuk&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
